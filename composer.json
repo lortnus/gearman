@@ -1,6 +1,7 @@
 {
     "name": "lortnus/gearman",
     "description": "Gearman",
+	"version": "1.0",
     "require": {
         "php": ">=5.1.0"
     }
